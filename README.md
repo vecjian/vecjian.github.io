@@ -1,3 +1,3 @@
 # vecjian.github.io
 
-[blog](https://vecjian.github.io/index.html)
+[vecjian's blog](https://vecjian.github.io/index.html)
